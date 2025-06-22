@@ -25,9 +25,6 @@ This is a **responsive front-end clone** of the Udemy homepage built using **HTM
 - Using external assets like fonts and icons to enhance design
 
 Thankyou for visiting my udemy-clone page
-🧠 Guided By
 
-**Error Makes Clever Academy**  
-Focused on hands-on coding and project-based learning.
 
 
